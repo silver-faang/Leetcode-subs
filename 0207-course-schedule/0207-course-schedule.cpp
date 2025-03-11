@@ -1,30 +1,29 @@
 class Solution {
 public:
-   bool detectcycle(vector<vector<int>>&v,int src,vector<int>&rst,vector<int>&vis){
-        vis[src]=1;
-        rst[src]=1;
-        for(auto x:v[src]){
-            if(!vis[x]&&detectcycle(v,x,rst,vis)){
-                return true;
-            }
-            else if(rst[x]==1)
-            return true;
+    bool dfs(int nd,vector<int> & vis,vector<vector<int>> &adj,vector<int> & pathvis){
+        vis[nd]=1;
+        pathvis[nd]=1;
+        for(auto itr: adj[nd]){
+            if(!vis[itr])
+             {if(dfs(itr,vis,adj,pathvis))
+              return true;}
+            else if(pathvis[itr]) return true; 
         }
-        rst[src]=0;
+        pathvis[nd]=0;
         return false;
     }
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>>v(numCourses);
-        vector<int>vis(numCourses),rst(numCourses);
-        for(auto x: prerequisites){
-            v[x[1]].push_back(x[0]);
+    bool canFinish(int n, vector<vector<int>>& pre) {
+        vector<vector<int>> adj(n);
+        for(auto i:pre){
+            adj[i[1]].push_back(i[0]);
         }
-        for(int i=0;i<numCourses;i++){
-           if(!vis[i])
-           if(detectcycle(v,i,rst,vis))
-           return false;
+        vector<int> pathvis(n,0);
+        vector<int> vis(n,0);
+        for(int i=0;i<n;i++){
+            if(!vis[i])
+             if(dfs(i,vis,adj,pathvis))
+              return false;
         }
-       
         return true;
     }
 };
