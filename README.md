@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/silver-faang/Leetcode-subs/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/silver-faang/Leetcode-subs/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/silver-faang/Leetcode-subs/tree/master/2792-neighboring-bitwise-xor) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3643-zero-array-transformation-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/silver-faang/Leetcode-subs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/silver-faang/Leetcode-subs/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2308-divide-array-into-equal-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0126-word-ladder-ii) |
+## Sorting
+|  |
+| ------- |
+| [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
 <!---LeetCode Topics End-->
