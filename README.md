@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/silver-faang/Leetcode-subs/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/silver-faang/Leetcode-subs/tree/master/1170-shortest-common-supersequence) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/silver-faang/Leetcode-subs/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
