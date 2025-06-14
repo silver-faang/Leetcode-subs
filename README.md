@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/silver-faang/Leetcode-subs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/silver-faang/Leetcode-subs/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Breadth-First Search
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/silver-faang/Leetcode-subs/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/silver-faang/Leetcode-subs/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/silver-faang/Leetcode-subs/tree/master/2998-count-symmetric-integers) |
 ## Combinatorics
 |  |
