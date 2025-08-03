@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/silver-faang/Leetcode-subs/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/silver-faang/Leetcode-subs/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/silver-faang/Leetcode-subs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/silver-faang/Leetcode-subs/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/silver-faang/Leetcode-subs/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/silver-faang/Leetcode-subs/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/2465-shifting-letters-ii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/silver-faang/Leetcode-subs/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/silver-faang/Leetcode-subs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/silver-faang/Leetcode-subs/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2690-house-robber-iv](https://github.com/silver-faang/Leetcode-subs/tree/master/2690-house-robber-iv) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/silver-faang/Leetcode-subs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/silver-faang/Leetcode-subs/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2308-divide-array-into-equal-pairs) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/silver-faang/Leetcode-subs/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2792-neighboring-bitwise-xor](https://github.com/silver-faang/Leetcode-subs/tree/master/2792-neighboring-bitwise-xor) |
 ## String Matching
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/silver-faang/Leetcode-subs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/silver-faang/Leetcode-subs/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/silver-faang/Leetcode-subs/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Counting
 |  |
