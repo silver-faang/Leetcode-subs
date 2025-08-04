@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/silver-faang/Leetcode-subs/tree/master/0940-fruit-into-baskets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/silver-faang/Leetcode-subs/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/silver-faang/Leetcode-subs/tree/master/1524-string-matching-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/silver-faang/Leetcode-subs/tree/master/0127-word-ladder) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/silver-faang/Leetcode-subs/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/silver-faang/Leetcode-subs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/silver-faang/Leetcode-subs/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2308-divide-array-into-equal-pairs) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/silver-faang/Leetcode-subs/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/silver-faang/Leetcode-subs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/silver-faang/Leetcode-subs/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/silver-faang/Leetcode-subs/tree/master/2626-count-the-number-of-good-subarrays) |
