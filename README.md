@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/silver-faang/Leetcode-subs/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3643-zero-array-transformation-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/silver-faang/Leetcode-subs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,4 +213,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/silver-faang/Leetcode-subs/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
