@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/silver-faang/Leetcode-subs/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-zero-array-transformation-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/silver-faang/Leetcode-subs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Shortest Path
 |  |
 | ------- |
