@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/silver-faang/Leetcode-subs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2465-shifting-letters-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/silver-faang/Leetcode-subs/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/silver-faang/Leetcode-subs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/silver-faang/Leetcode-subs/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/silver-faang/Leetcode-subs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1628-count-submatrices-with-all-ones) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
