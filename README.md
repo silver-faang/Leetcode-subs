@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/silver-faang/Leetcode-subs/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/silver-faang/Leetcode-subs/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/silver-faang/Leetcode-subs/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/silver-faang/Leetcode-subs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/silver-faang/Leetcode-subs/tree/master/2690-house-robber-iv) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/silver-faang/Leetcode-subs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/silver-faang/Leetcode-subs/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
 | [2308-divide-array-into-equal-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/silver-faang/Leetcode-subs/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/silver-faang/Leetcode-subs/tree/master/2358-number-of-ways-to-split-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
 ## Matrix
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1628-count-submatrices-with-all-ones) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/silver-faang/Leetcode-subs/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/silver-faang/Leetcode-subs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/silver-faang/Leetcode-subs/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Topological Sort
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
 |  |
