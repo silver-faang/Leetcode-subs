@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-zero-array-transformation-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/silver-faang/Leetcode-subs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3690-split-and-merge-array-transformation](https://github.com/silver-faang/Leetcode-subs/tree/master/3690-split-and-merge-array-transformation) |
 | [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/silver-faang/Leetcode-subs/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/silver-faang/Leetcode-subs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3690-split-and-merge-array-transformation](https://github.com/silver-faang/Leetcode-subs/tree/master/3690-split-and-merge-array-transformation) |
 | [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/silver-faang/Leetcode-subs/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/silver-faang/Leetcode-subs/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3690-split-and-merge-array-transformation](https://github.com/silver-faang/Leetcode-subs/tree/master/3690-split-and-merge-array-transformation) |
 ## Graph
 |  |
 | ------- |
