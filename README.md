@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/silver-faang/Leetcode-subs/tree/master/0820-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/silver-faang/Leetcode-subs/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Search Tree
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Array
 |  |
 | ------- |
