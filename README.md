@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/silver-faang/Leetcode-subs/tree/master/0127-word-ladder) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/silver-faang/Leetcode-subs/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/silver-faang/Leetcode-subs/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/silver-faang/Leetcode-subs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/silver-faang/Leetcode-subs/tree/master/1524-string-matching-in-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/0416-partition-equal-subset-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/silver-faang/Leetcode-subs/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/silver-faang/Leetcode-subs/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1402-count-square-submatrices-with-all-ones) |
