@@ -26,11 +26,11 @@ public:
                     ans=max(ans,currWidth*height);
                 }
                 currWidth = width;
-                for (int k = i; k >= 0 && mat[k][j] > 0; k--) {
-                    currWidth = min(currWidth, (int)mat[k][j]);
-                    int height = i - k + 1;
-                    ans = max(ans, currWidth * height);
-                }
+                // for (int k = i; k >= 0 && mat[k][j] > 0; k--) {
+                //     currWidth = min(currWidth, (int)mat[k][j]);
+                //     int height = i - k + 1;
+                //     ans = max(ans, currWidth * height);
+                // }
             }
         }
         return ans;
