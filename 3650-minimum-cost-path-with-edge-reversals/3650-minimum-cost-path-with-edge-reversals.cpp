@@ -15,10 +15,10 @@ public:
             int u=pq.top().second;
             int d1=pq.top().first;
             pq.pop();
+            
+            if(u==n-1) return d[u];
             if (d1 > d[u])
             continue;
-            if(u==n-1) return d[u];
-            
             if(v[u])continue;
             v[u]=1;
             for(auto [v,w]:g[u]){
