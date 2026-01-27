@@ -13,8 +13,12 @@ public:
         pq.push({0,0});
         while(pq.size()){
             int u=pq.top().second;
+            int d1=pq.top().first;
             pq.pop();
+
             if(u==n-1) return d[u];
+            if (d1 > d[u])
+            continue;
             if(v[u])continue;
             v[u]=1;
             for(auto [v,w]:g[u]){
