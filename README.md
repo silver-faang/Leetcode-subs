@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-zero-array-transformation-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3643-zero-array-transformation-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/silver-faang/Leetcode-subs/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/silver-faang/Leetcode-subs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3690-split-and-merge-array-transformation](https://github.com/silver-faang/Leetcode-subs/tree/master/3690-split-and-merge-array-transformation) |
 | [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/silver-faang/Leetcode-subs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/1975-maximum-matrix-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/silver-faang/Leetcode-subs/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/silver-faang/Leetcode-subs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/silver-faang/Leetcode-subs/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/silver-faang/Leetcode-subs/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Topological Sort
 |  |
 | ------- |
