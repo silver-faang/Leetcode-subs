@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/silver-faang/Leetcode-subs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2465-shifting-letters-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/silver-faang/Leetcode-subs/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/silver-faang/Leetcode-subs/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/silver-faang/Leetcode-subs/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/silver-faang/Leetcode-subs/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3453-separate-squares-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/silver-faang/Leetcode-subs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/silver-faang/Leetcode-subs/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/silver-faang/Leetcode-subs/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dynamic Programming
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/silver-faang/Leetcode-subs/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/silver-faang/Leetcode-subs/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sweep Line
 |  |
