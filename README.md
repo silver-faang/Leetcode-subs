@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/silver-faang/Leetcode-subs/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/silver-faang/Leetcode-subs/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/silver-faang/Leetcode-subs/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2169-count-operations-to-obtain-zero](https://github.com/silver-faang/Leetcode-subs/tree/master/2169-count-operations-to-obtain-zero) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/silver-faang/Leetcode-subs/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/silver-faang/Leetcode-subs/tree/master/2998-count-symmetric-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/silver-faang/Leetcode-subs/tree/master/2169-count-operations-to-obtain-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
