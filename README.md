@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/silver-faang/Leetcode-subs/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/silver-faang/Leetcode-subs/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/silver-faang/Leetcode-subs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/silver-faang/Leetcode-subs/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -344,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3454-separate-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/silver-faang/Leetcode-subs/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
