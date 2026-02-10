@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/silver-faang/Leetcode-subs/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/silver-faang/Leetcode-subs/tree/master/0127-word-ladder) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/silver-faang/Leetcode-subs/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/silver-faang/Leetcode-subs/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/silver-faang/Leetcode-subs/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
