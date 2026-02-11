@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/silver-faang/Leetcode-subs/tree/master/0011-container-with-most-water) |
 | [0085-maximal-rectangle](https://github.com/silver-faang/Leetcode-subs/tree/master/0085-maximal-rectangle) |
 | [0217-contains-duplicate](https://github.com/silver-faang/Leetcode-subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/silver-faang/Leetcode-subs/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/1975-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/silver-faang/Leetcode-subs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/silver-faang/Leetcode-subs/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/silver-faang/Leetcode-subs/tree/master/0125-valid-palindrome) |
 ## Hash Function
 |  |
