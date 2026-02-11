@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/silver-faang/Leetcode-subs/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Search Tree
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/silver-faang/Leetcode-subs/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1382-balance-a-binary-search-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/silver-faang/Leetcode-subs/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/silver-faang/Leetcode-subs/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/1975-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/silver-faang/Leetcode-subs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/silver-faang/Leetcode-subs/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/silver-faang/Leetcode-subs/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/silver-faang/Leetcode-subs/tree/master/0191-number-of-1-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
