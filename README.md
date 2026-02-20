@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/silver-faang/Leetcode-subs/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/silver-faang/Leetcode-subs/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/silver-faang/Leetcode-subs/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/silver-faang/Leetcode-subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/silver-faang/Leetcode-subs/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/silver-faang/Leetcode-subs/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/silver-faang/Leetcode-subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/0840-magic-squares-in-grid) |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
