@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/silver-faang/Leetcode-subs/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/silver-faang/Leetcode-subs/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/silver-faang/Leetcode-subs/tree/master/0139-word-break) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/silver-faang/Leetcode-subs/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/silver-faang/Leetcode-subs/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/silver-faang/Leetcode-subs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/silver-faang/Leetcode-subs/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/silver-faang/Leetcode-subs/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/silver-faang/Leetcode-subs/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/silver-faang/Leetcode-subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/silver-faang/Leetcode-subs/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/silver-faang/Leetcode-subs/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/silver-faang/Leetcode-subs/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/silver-faang/Leetcode-subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/0840-magic-squares-in-grid) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/silver-faang/Leetcode-subs/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/silver-faang/Leetcode-subs/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/silver-faang/Leetcode-subs/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/silver-faang/Leetcode-subs/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/silver-faang/Leetcode-subs/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/0416-partition-equal-subset-sum) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/silver-faang/Leetcode-subs/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/silver-faang/Leetcode-subs/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Sliding Window
 |  |
@@ -424,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/silver-faang/Leetcode-subs/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
