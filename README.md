@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/silver-faang/Leetcode-subs/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/silver-faang/Leetcode-subs/tree/master/0143-reorder-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1628-count-submatrices-with-all-ones) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/silver-faang/Leetcode-subs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/silver-faang/Leetcode-subs/tree/master/0143-reorder-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/silver-faang/Leetcode-subs/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Segment Tree
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/silver-faang/Leetcode-subs/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/silver-faang/Leetcode-subs/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/silver-faang/Leetcode-subs/tree/master/0326-power-of-three) |
 ## Monotonic Stack
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/silver-faang/Leetcode-subs/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/silver-faang/Leetcode-subs/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/silver-faang/Leetcode-subs/tree/master/0143-reorder-list) |
 ## Hash Function
 |  |
 | ------- |
