@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/silver-faang/Leetcode-subs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
 | [0975-range-sum-of-bst](https://github.com/silver-faang/Leetcode-subs/tree/master/0975-range-sum-of-bst) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/silver-faang/Leetcode-subs/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/silver-faang/Leetcode-subs/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/silver-faang/Leetcode-subs/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/silver-faang/Leetcode-subs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/silver-faang/Leetcode-subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
