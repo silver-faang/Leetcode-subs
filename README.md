@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/silver-faang/Leetcode-subs/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/silver-faang/Leetcode-subs/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/silver-faang/Leetcode-subs/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/silver-faang/Leetcode-subs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/silver-faang/Leetcode-subs/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/silver-faang/Leetcode-subs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/silver-faang/Leetcode-subs/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/silver-faang/Leetcode-subs/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/silver-faang/Leetcode-subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/silver-faang/Leetcode-subs/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/silver-faang/Leetcode-subs/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/silver-faang/Leetcode-subs/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/silver-faang/Leetcode-subs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/silver-faang/Leetcode-subs/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/silver-faang/Leetcode-subs/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/silver-faang/Leetcode-subs/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/silver-faang/Leetcode-subs/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/silver-faang/Leetcode-subs/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/silver-faang/Leetcode-subs/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
 | ------- |
