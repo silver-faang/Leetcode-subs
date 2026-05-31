@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/silver-faang/Leetcode-subs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/silver-faang/Leetcode-subs/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/silver-faang/Leetcode-subs/tree/master/2126-destroying-asteroids) |
 | [2308-divide-array-into-equal-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/silver-faang/Leetcode-subs/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/silver-faang/Leetcode-subs/tree/master/2358-number-of-ways-to-split-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/silver-faang/Leetcode-subs/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/1975-maximum-matrix-sum) |
+| [2126-destroying-asteroids](https://github.com/silver-faang/Leetcode-subs/tree/master/2126-destroying-asteroids) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/silver-faang/Leetcode-subs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/silver-faang/Leetcode-subs/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/silver-faang/Leetcode-subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/silver-faang/Leetcode-subs/tree/master/2126-destroying-asteroids) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Math
