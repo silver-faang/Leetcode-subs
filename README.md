@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/silver-faang/Leetcode-subs/tree/master/0940-fruit-into-baskets) |
 | [1266-minimum-time-visiting-all-points](https://github.com/silver-faang/Leetcode-subs/tree/master/1266-minimum-time-visiting-all-points) |
+| [1331-rank-transform-of-an-array](https://github.com/silver-faang/Leetcode-subs/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/silver-faang/Leetcode-subs/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/silver-faang/Leetcode-subs/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/silver-faang/Leetcode-subs/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/silver-faang/Leetcode-subs/tree/master/0940-fruit-into-baskets) |
+| [1331-rank-transform-of-an-array](https://github.com/silver-faang/Leetcode-subs/tree/master/1331-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/silver-faang/Leetcode-subs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/silver-faang/Leetcode-subs/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/silver-faang/Leetcode-subs/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/silver-faang/Leetcode-subs/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/silver-faang/Leetcode-subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/silver-faang/Leetcode-subs/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/silver-faang/Leetcode-subs/tree/master/1331-rank-transform-of-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/silver-faang/Leetcode-subs/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/silver-faang/Leetcode-subs/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
