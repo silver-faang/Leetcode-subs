@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/silver-faang/Leetcode-subs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/silver-faang/Leetcode-subs/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/silver-faang/Leetcode-subs/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/silver-faang/Leetcode-subs/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3453-separate-squares-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3454-separate-squares-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/silver-faang/Leetcode-subs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/silver-faang/Leetcode-subs/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/silver-faang/Leetcode-subs/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3453-separate-squares-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/silver-faang/Leetcode-subs/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/silver-faang/Leetcode-subs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/silver-faang/Leetcode-subs/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/silver-faang/Leetcode-subs/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/silver-faang/Leetcode-subs/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Topological Sort
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/silver-faang/Leetcode-subs/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/silver-faang/Leetcode-subs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/silver-faang/Leetcode-subs/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
