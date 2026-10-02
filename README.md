@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/silver-faang/Leetcode-subs/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3643-zero-array-transformation-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3719-longest-balanced-subarray-i) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/silver-faang/Leetcode-subs/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Tree
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/silver-faang/Leetcode-subs/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3690-split-and-merge-array-transformation](https://github.com/silver-faang/Leetcode-subs/tree/master/3690-split-and-merge-array-transformation) |
 | [3719-longest-balanced-subarray-i](https://github.com/silver-faang/Leetcode-subs/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/silver-faang/Leetcode-subs/tree/master/3797-design-spreadsheet) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/silver-faang/Leetcode-subs/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Bit Manipulation
 |  |
 | ------- |
