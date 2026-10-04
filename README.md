@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/silver-faang/Leetcode-subs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/silver-faang/Leetcode-subs/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/silver-faang/Leetcode-subs/tree/master/0139-word-break) |
+| [0678-valid-parenthesis-string](https://github.com/silver-faang/Leetcode-subs/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/silver-faang/Leetcode-subs/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/silver-faang/Leetcode-subs/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/silver-faang/Leetcode-subs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -221,12 +222,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/silver-faang/Leetcode-subs/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/silver-faang/Leetcode-subs/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/silver-faang/Leetcode-subs/tree/master/0678-valid-parenthesis-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/silver-faang/Leetcode-subs/tree/master/1628-count-submatrices-with-all-ones) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/silver-faang/Leetcode-subs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/silver-faang/Leetcode-subs/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/silver-faang/Leetcode-subs/tree/master/0678-valid-parenthesis-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/silver-faang/Leetcode-subs/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/silver-faang/Leetcode-subs/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/silver-faang/Leetcode-subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/silver-faang/Leetcode-subs/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/silver-faang/Leetcode-subs/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/silver-faang/Leetcode-subs/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/silver-faang/Leetcode-subs/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/silver-faang/Leetcode-subs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/silver-faang/Leetcode-subs/tree/master/1170-shortest-common-supersequence) |
@@ -492,4 +496,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/silver-faang/Leetcode-subs/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/silver-faang/Leetcode-subs/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
